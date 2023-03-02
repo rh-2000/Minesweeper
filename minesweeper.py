@@ -1,8 +1,3 @@
-'''
-NOTES:
-most of this code was aided by the discord discussions for this task
-'''
-
 def mines_grid(grid):
     col_length = len(grid[0])
     row_length = len(grid)
